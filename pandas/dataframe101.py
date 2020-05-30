@@ -33,3 +33,32 @@
 
 # for index, row in df.iterrows():
 #     print(row['c1'], row['c2'])
+
+'''
+year	key	val
+2019	a  	3
+2019	a  	4
+2019	b  	3
+2019	c  	5
+2020	d  	6
+2020	e  	1
+2020	f  	2
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
